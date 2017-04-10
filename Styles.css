@@ -60,7 +60,7 @@ body {
 
 .box {
   margin-top: 15px;;
-  height: 40px;
+  height: 35px;
   width: 900px;
   margin-left: auto;
   margin-right: auto;
@@ -161,23 +161,49 @@ body {
 
 .contactbox {
   margin-top: 1475px;
-  height: 100px;
+  height: 150px;
   width: 900px;
   margin-left: auto;
   margin-right: auto;
-  background-color: rgba(0, 0, 0, 0.25);
+  background-color: white;
 }
 
+.contactbox h1 {
+  color: #FEDF6B;
+  font-family: monospace;
+  margin-left: 100px;
+  float: left;
+}
 .contactbox p {
-  color: white;
+  color: rgba(0, 0, 0, 0.25);
   font-family: monospace;
   font-size: 0.8rem;
   margin-left: 100px;
+  margin-top: 20px;
+  float: left;
 }
 
 .contactbox p2 {
-  color: white;
+  color: rgba(0, 0, 0, 0.25);
   font-family: monospace;
   font-size: 0.8rem;
   margin-left: 100px;
+  float: left;
 }
+
+.contactbox img {
+  max-width: 100px;
+  margin-top: -50px;
+  width: 100%;
+  margin-left: 470px;
+  margin-right: auto;
+  float: left;
+}
+
+.contactbox p3 {
+    color: rgba(0, 0, 0, 0.25);
+    font-family: monospace;
+    font-size: 0.8rem;
+    margin-left: 770px;
+    float: left;
+  }
