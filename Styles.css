@@ -10,7 +10,7 @@ body {
 .header {
   background-color: #FFFFFF;
   color: white;
-  height: 100px;
+  height: 270px;
 }
 
 .header img {
@@ -18,7 +18,7 @@ body {
   width: 90%;
   margin-left: 300px;
   margin-right: 300px;
-  margin-top: 30px;
+  margin-top: 100px;
 }
 
 .headerContainer {
@@ -69,7 +69,7 @@ body {
 
 .box2 {
   margin-top: 0px;
-  height: 200px;
+  height: 100px;
   width: 900px;
   margin-left: auto;
   margin-right: auto;
@@ -87,4 +87,97 @@ body {
   font-family: monospace;
   font-size: 0.7rem;
   margin-left: 30px;
+}
+
+.box3 {
+  margin-top: 0px;
+  height: 100px;
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #E9EAEC;
+}
+
+.box3 p {
+  color: white;
+  margin-top: 100px;
+  margin-left: 240px;
+  font-size: 2rem;
+}
+
+.photo2 img {
+  max-width: 425px;
+  margin-top: 50px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  float: left;
+}
+
+.photo3 img {
+  max-width: 425px;
+  margin-top: 50px;
+  width: 100%;
+  margin-left: 50px;
+  margin-right: auto;
+  float: left;
+}
+
+.photo4 img {
+  max-width: 425px;
+  margin-top: 50px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  float: left;
+}
+
+.photo5 img {
+  max-width: 425px;
+  margin-top: 50px;
+  width: 100%;
+  margin-left: 50px;
+  margin-right: auto;
+  float: left;
+}
+
+.photo6 img {
+  max-width: 425px;
+  margin-top: 50px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  float: left;
+}
+
+.photo7 img {
+  max-width: 425px;
+  margin-top: 50px;
+  width: 100%;
+  margin-left: 50px;
+  margin-right: auto;
+  float: left;
+}
+
+.contactbox {
+  margin-top: 1475px;
+  height: 100px;
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(0, 0, 0, 0.25);
+}
+
+.contactbox p {
+  color: white;
+  font-family: monospace;
+  font-size: 0.8rem;
+  margin-left: 100px;
+}
+
+.contactbox p2 {
+  color: white;
+  font-family: monospace;
+  font-size: 0.8rem;
+  margin-left: 100px;
 }
